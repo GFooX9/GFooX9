@@ -4,7 +4,6 @@
 </p>
 
 <p align="center">
-  <!-- Небольшой стильный подзаголовок -->
   <code>🧑‍💻 Разработчик / Студент / Инженер</code> 
 </p>
 
@@ -34,14 +33,14 @@
 
 ### 📊 Моя GitHub Статистика
 
-<!-- Карточки статистики, адаптированные под ваши цвета -->
+<!-- Карточки статистики подстроены под ваш профиль GFooX9 -->
 <p align="center">
-  <img src="https://vercel.app<GFooX9>&show_icons=true&theme=dark&bg_color=37353E&title_color=715A5A&icon_color=715A5A&text_color=D3DAD9&border_color=44444E" alt="GitHub Stats" width="48%" />
-  <img src="https://vercel.app<GFooX9>&layout=compact&theme=dark&bg_color=37353E&title_color=715A5A&icon_color=715A5A&text_color=D3DAD9&border_color=44444E" alt="Top Languages" width="48%" />
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://herokuapp.com<GFooX9>&theme=dark&background=37353E&fire=715A5A&ring=715A5A&currStreakNum=D3DAD9&sideLabels=D3DAD9&stroke=44444E&currStreakLabel=715A5A" alt="GitHub Streak" width="97%" />
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
