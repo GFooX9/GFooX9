@@ -268,7 +268,7 @@ If you would like to take a quick look at my project presentation and reports, y
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://t.me/AlexDobler" target="_blank">
+  <a href="https://t.me" target="_blank">
     <img src="./images/svg_logo/Telegram.svg" height="40" alt="Telegram" />
   </a>
   <a href="mailto:vjbv457@gmail.com">
@@ -278,7 +278,21 @@ If you would like to take a quick look at my project presentation and reports, y
       <img src="./images/svg_logo/Gmail-Dark.svg" height="40" alt="Email" />
     </picture>
   </a>
-  <a href="https://vk.com/alexdobler" target="_blank">
+  <a href="https://vk.com" target="_blank">
     <img src="./images/svg_logo/VK.svg" height="40" alt="VK" />
   </a>
+  <a href="https://pinterest.com" target="_blank">
+    <img src="./images/svg_logo/Pinterest.svg" height="40" alt="Pinterest" />
+  </a>
+  <a href="https://instagram.com" target="_blank">
+    <img src="./images/svg_logo/Instagram.svg" height="40" alt="Instagram" />
+  </a>
+  <a href="https://discord.com" target="_blank">
+    <img src="./images/svg_logo/Discord.svg" height="40" alt="Discord" />
+  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Spotify-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Spotify-Light.svg">
+    <img src="./images/svg_logo/Spotify-Dark.svg" height="40" alt="Spotify" />
+  </picture>
 </p>
