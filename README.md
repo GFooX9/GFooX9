@@ -81,7 +81,6 @@ If you would like to take a quick look at my project presentation and reports, y
     <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/PHP-Light.svg">
     <img src="./images/svg_logo/PHP-Dark.svg" height="40" alt="PHP" />
   </picture>
-  <img src="./images/svg_logo/Fortran.svg" height="40" alt="Fortran" />
 </p>
 
 #### 🤖 Computer Vision & AI / Data Science
@@ -103,7 +102,7 @@ If you would like to take a quick look at my project presentation and reports, y
   </picture>
 </p>
 
-#### 🕹️ Game Design & Engines
+#### 🕹️ Game Design, Engines & Pixel Art
 <p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Unity-Dark.svg">
@@ -116,6 +115,7 @@ If you would like to take a quick look at my project presentation and reports, y
     <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Godot-Light.svg">
     <img src="./images/svg_logo/Godot-Dark.svg" height="40" alt="Godot" />
   </picture>
+  <img src="./images/svg_logo/Aseprite.svg" height="40" alt="Aseprite" />
 </p>
 
 #### 🎨 UI/UX & Graphic Design Tools
@@ -133,6 +133,22 @@ If you would like to take a quick look at my project presentation and reports, y
     <img src="./images/svg_logo/Blender-Dark.svg" height="40" alt="Blender" />
   </picture>
   <img src="./images/svg_logo/AfterEffects.svg" height="40" alt="After Effects" />
+</p>
+
+#### 🪄 AI Assistants & Smart Editors
+<p align="left">
+  <img src="./images/svg_logo/Claude.svg" height="40" alt="Claude AI" />
+  <img src="./images/svg_logo/Deepseek.svg" height="40" alt="DeepSeek" />
+  <img src="./images/svg_logo/Gemini.svg" height="40" alt="Gemini" />
+  <img src="./images/svg_logo/Perplexity.svg" height="40" alt="Perplexity" />
+  <img src="./images/svg_logo/Cursor AI.svg" height="40" alt="Cursor AI" />
+</p>
+
+#### 🎬 Video, Audio & Streaming Production
+<p align="left">
+  <img src="./images/svg_logo/Davinci resolve.svg" height="40" alt="DaVinci Resolve" />
+  <img src="./images/svg_logo/FL Studio.svg" height="40" alt="FL Studio" />
+  <img src="./images/svg_logo/OBS.svg" height="40" alt="OBS Studio" />
 </p>
 
 #### 🌐 Web Development & Databases
@@ -155,11 +171,9 @@ If you would like to take a quick look at my project presentation and reports, y
   <img src="./images/svg_logo/SQLite.svg" height="40" alt="SQLite" />
 </p>
 
-#### 🛠️ DevOps, Systems & Hardware
+#### 🛠️ Operating Systems & Shells
 <p align="left">
   <img src="./images/svg_logo/Git.svg" height="40" alt="Git" />
-  <img src="./images/svg_logo/Docker.svg" height="40" alt="Docker" />
-  <img src="./images/svg_logo/Arduino.svg" height="40" alt="Arduino" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Linux-Dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Linux-Light.svg">
@@ -176,7 +190,7 @@ If you would like to take a quick look at my project presentation and reports, y
     <img src="./images/svg_logo/Mint-Dark.svg" height="40" alt="Linux Mint" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Windows-Dark.svg">
+    <source castings="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Windows-Dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Windows-Light.svg">
     <img src="./images/svg_logo/Windows-Dark.svg" height="40" alt="Windows" />
   </picture>
@@ -255,11 +269,7 @@ If you would like to take a quick look at my project presentation and reports, y
 
 <p align="left">
   <a href="https://t.me" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Gmail-Dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Gmail-Light.svg">
-      <img src="./images/svg_logo/Gmail-Dark.svg" height="40" alt="Telegram" />
-    </picture>
+    <img src="./images/svg_logo/Telegram.svg" height="40" alt="Telegram" />
   </a>
   <a href="mailto:vjbv457@gmail.com">
     <picture>
@@ -269,10 +279,6 @@ If you would like to take a quick look at my project presentation and reports, y
     </picture>
   </a>
   <a href="https://vk.com" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Github-Dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Github-Light.svg">
-      <img src="./images/svg_logo/Github-Dark.svg" height="40" alt="VK" />
-    </picture>
+    <img src="./images/svg_logo/VK.svg" height="40" alt="VK" />
   </a>
 </p>
