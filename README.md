@@ -281,7 +281,7 @@ If you would like to take a quick look at my project presentation and reports, y
     </picture>
   </a>
   <a href="mailto:vjbv457@gmail.com">
-    <img src="./images/svg_logo/YandexMail%10.svg" height="40" alt="Yandex Mail" />
+    <img src="./images/svg_logo/YandexMail%20.svg" height="30" alt="Yandex Mail" />
   </a>
   <a href="https://vk.com" target="_blank">
     <img src="./images/svg_logo/VK.svg" height="40" alt="VK" />
