@@ -286,7 +286,7 @@ If you would like to take a quick look at my project presentation and reports, y
   <a href="https://ru.pinterest.com/AlexDoblerX_9/" target="_blank">
     <img src="./images/svg_logo/Pinterest.svg" height="40" alt="Pinterest" />
   </a>
-  <a href="https://instagram.com" target="_blank">
+  <a href="https://www.instagram.com/f0ox_9/" target="_blank">
     <img src="./images/svg_logo/Instagram.svg" height="40" alt="Instagram" />
   </a>
   <a href="https://discordapp.com/users/527061643692081163" target="_blank">
@@ -312,7 +312,4 @@ If you would like to take a quick look at my project presentation and reports, y
     <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/GitLab-Light.svg">
     <img src="./images/svg_logo/GitLab-Dark.svg" height="40" alt="GitLab" />
   </picture>
-  <a href="mailto:shuradobler@yandex.ru?subject=Вопрос по сотрудничеству">
-    <img src="./images/svg_logo/YandexMail%20.svg" height="30" alt="Yandex Mail" />
-  </a>
 </p>
