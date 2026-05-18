@@ -5,12 +5,24 @@
 
 ---
 
-### 🗂️ Обо мне
+### 🗂️ Story Behind The Code
 
-- 🔭 **Сейчас работаю над:** `<название проекта или область>`
-- 🌱 **Изучаю:** `<технология, которую сейчас осваиваете>`
-- 💬 **Ко мне можно обратиться за:** `<в чем вы сильны>`
-- ⚡ **Факты обо мне:** `<пару слов о ваших хобби или интересах>`
+✨ **Blending Logic with Creativity**
+I am a **Fundamental Computer Science & IT** student at South Ural State University. My academic journey is driven by a passion for teaching machines to see and building worlds from scratch. I bridge the gap between complex algorithms and human-centered design.
+
+* 🤖 **Computer Vision Enthusiast:** Exploring pixels, training models, and finding patterns in visual data.
+* 🕹️ **Game Designer & Visionary:** Crafting gameplay mechanics, balance, and immersive interactive experiences.
+* 🎨 **UI/UX Architect:** Designing interfaces that are not just beautiful, but completely intuitive and user-focused.
+
+---
+
+### 🎨 Creative Escape & Lifestyle
+
+When I step away from the compiler, I dive into other forms of art and focus:
+* ✍️ **The Written Word:** Author of books and poetry, exploring storytelling in every medium.
+* 🖌️ **Visual Focus:** Bringing detail to life through paint-by-numbers artwork.
+* 🏓 **Active Motion:** Recharging my energy and reflexes with fast-paced table tennis.
+
 
 ---
 
