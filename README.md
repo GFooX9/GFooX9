@@ -6,12 +6,13 @@
 <p align="center">
   <!-- Local Language Switcher Buttons -->
   <a href="./README.md">
-    <img src="./images/btn_eng.png" height="40" alt="English" />
+    <img src="./images/btn_eng_active.png" height="40" alt="English" />
   </a>
   <a href="./README.ru.md">
-    <img src="./images/btn_ru.png" height="40" alt="Russian" />
+    <img src="./images/btn_ru_inactive.png" height="40" alt="Russian" />
   </a>
 </p>
+
 
 
 ---
