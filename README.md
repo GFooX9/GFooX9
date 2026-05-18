@@ -83,7 +83,7 @@ If you would like to take a quick look at my project presentation and reports, y
   </picture>
 </p>
 
-#### 🤖 Computer Vision & AI / Data Science
+#### 👁️ Computer Vision & AI / Data Science
 <p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/OpenCV-Dark.svg">
@@ -132,23 +132,27 @@ If you would like to take a quick look at my project presentation and reports, y
     <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Blender-Light.svg">
     <img src="./images/svg_logo/Blender-Dark.svg" height="40" alt="Blender" />
   </picture>
-  <img src="./images/svg_logo/AfterEffects.svg" height="40" alt="After Effects" />
 </p>
 
 #### 🧠 AI Assistants & Smart Editors
 <p align="left">
-  <img src="./images/svg_logo/Claude.svg" height="40" alt="Claude AI" />
+  <img src="./images/svg_logo/Claude.svg" height="40" alt="Claude" />
   <img src="./images/svg_logo/Deepseek.svg" height="40" alt="DeepSeek" />
   <img src="./images/svg_logo/Gemini.svg" height="40" alt="Gemini" />
   <img src="./images/svg_logo/Perplexity.svg" height="40" alt="Perplexity" />
-  <img src="./images/svg_logo/Cursor AI.svg" height="40" alt="Cursor AI" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Cursor%20AI-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Cursor%20AI-Light.svg">
+    <img src="./images/svg_logo/Cursor%20AI-Dark.svg" height="40" alt="Cursor AI" />
+  </picture>
 </p>
 
 #### 🎬 Video, Audio & Streaming Production
 <p align="left">
-  <img src="./images/svg_logo/Davinci resolve.svg" height="40" alt="DaVinci Resolve" />
-  <img src="./images/svg_logo/FL Studio.svg" height="40" alt="FL Studio" />
+  <img src="./images/svg_logo/Davinci%20resolve.svg" height="40" alt="DaVinci Resolve" />
+  <img src="./images/svg_logo/FL%20Studio.svg" height="40" alt="FL Studio" />
   <img src="./images/svg_logo/OBS.svg" height="40" alt="OBS Studio" />
+  <img src="./images/svg_logo/AfterEffects.svg" height="40" alt="After Effects" />
 </p>
 
 #### 🌐 Web Development & Databases
@@ -190,7 +194,7 @@ If you would like to take a quick look at my project presentation and reports, y
     <img src="./images/svg_logo/Mint-Dark.svg" height="40" alt="Linux Mint" />
   </picture>
   <picture>
-    <source castings="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Windows-Dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Windows-Dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Windows-Light.svg">
     <img src="./images/svg_logo/Windows-Dark.svg" height="40" alt="Windows" />
   </picture>
@@ -228,6 +232,7 @@ If you would like to take a quick look at my project presentation and reports, y
     <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Idea-Light.svg">
     <img src="./images/svg_logo/Idea-Dark.svg" height="40" alt="IntelliJ IDEA" />
   </picture>
+  <img src="./images/svg_logo/AndroidStudio.svg" height="40" alt="Android Studio" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Replit-Dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Replit-Light.svg">
@@ -278,6 +283,9 @@ If you would like to take a quick look at my project presentation and reports, y
       <img src="./images/svg_logo/Gmail-Dark.svg" height="40" alt="Email" />
     </picture>
   </a>
+  <a href="mailto:vjbv457@gmail.com">
+    <img src="./images/svg_logo/YandexMail%20.svg" height="40" alt="Yandex Mail" />
+  </a>
   <a href="https://vk.com" target="_blank">
     <img src="./images/svg_logo/VK.svg" height="40" alt="VK" />
   </a>
@@ -294,5 +302,20 @@ If you would like to take a quick look at my project presentation and reports, y
     <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Spotify-Dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Spotify-Light.svg">
     <img src="./images/svg_logo/Spotify-Dark.svg" height="40" alt="Spotify" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/StackOverflow-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/StackOverflow-Light.svg">
+    <img src="./images/svg_logo/StackOverflow-Dark.svg" height="40" alt="StackOverflow" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Github-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Github-Light.svg">
+    <img src="./images/svg_logo/Github-Dark.svg" height="40" alt="GitHub" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/GitLab-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/GitLab-Light.svg">
+    <img src="./images/svg_logo/GitLab-Dark.svg" height="40" alt="GitLab" />
   </picture>
 </p>
