@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Ваша кастомная шапка из папки images -->
-  <img src="./images/banner.png" width="100%" />
+  <img src="./images/head.jpg" width="100%" />
 </p>
 
 ---
