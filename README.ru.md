@@ -41,7 +41,7 @@
 Когда я отхожу от компилятора, я погружаюсь в другие формы искусства и фокуса:
 * ✍️ **Словесное творчество:** Автор книг и стихов, исследую сторителлинг в любых проявлениях.
 * 🖌️ **Визуальный фокус:** Переношу детали в жизнь через раскрашивание картин по номерам.
-* 🏓 **Активное движение:** Перезагружаю энергию и развиваю рефлексы в динамичном настольном теннисе.
+* 🏓 **Active Motion:** Перезагружаю энергию и развиваю рефлексы в динамичном настольном теннисе.
 
 ---
 
@@ -81,7 +81,6 @@
     <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/PHP-Light.svg">
     <img src="./images/svg_logo/PHP-Dark.svg" height="40" alt="PHP" />
   </picture>
-  <img src="./images/svg_logo/Fortran.svg" height="40" alt="Fortran" />
 </p>
 
 #### 🤖 Компьютерное зрение и ИИ / Data Science
@@ -103,7 +102,7 @@
   </picture>
 </p>
 
-#### 🕹️ Геймдизайн и игровые движки
+#### 🕹️ Геймдизайн, игровые движки и Пиксель-арт
 <p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Unity-Dark.svg">
@@ -116,6 +115,7 @@
     <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Godot-Light.svg">
     <img src="./images/svg_logo/Godot-Dark.svg" height="40" alt="Godot" />
   </picture>
+  <img src="./images/svg_logo/Aseprite.svg" height="40" alt="Aseprite" />
 </p>
 
 #### 🎨 UI/UX и инструменты графического дизайна
@@ -133,6 +133,22 @@
     <img src="./images/svg_logo/Blender-Dark.svg" height="40" alt="Blender" />
   </picture>
   <img src="./images/svg_logo/AfterEffects.svg" height="40" alt="After Effects" />
+</p>
+
+#### 🪄 ИИ-ассистенты и умные редакторы
+<p align="left">
+  <img src="./images/svg_logo/Claude.svg" height="40" alt="Claude AI" />
+  <img src="./images/svg_logo/Deepseek.svg" height="40" alt="DeepSeek" />
+  <img src="./images/svg_logo/Gemini.svg" height="40" alt="Gemini" />
+  <img src="./images/svg_logo/Perplexity.svg" height="40" alt="Perplexity" />
+  <img src="./images/svg_logo/Cursor AI.svg" height="40" alt="Cursor AI" />
+</p>
+
+#### 🎬 Видеомонтаж, аудио и стриминг
+<p align="left">
+  <img src="./images/svg_logo/Davinci resolve.svg" height="40" alt="DaVinci Resolve" />
+  <img src="./images/svg_logo/FL Studio.svg" height="40" alt="FL Studio" />
+  <img src="./images/svg_logo/OBS.svg" height="40" alt="OBS Studio" />
 </p>
 
 #### 🌐 Веб-разработка и базы данных
@@ -155,11 +171,9 @@
   <img src="./images/svg_logo/SQLite.svg" height="40" alt="SQLite" />
 </p>
 
-#### 🛠️ DevOps, системное администрирование и железо
+#### 🛠️ Операционные системы и оболочки
 <p align="left">
   <img src="./images/svg_logo/Git.svg" height="40" alt="Git" />
-  <img src="./images/svg_logo/Docker.svg" height="40" alt="Docker" />
-  <img src="./images/svg_logo/Arduino.svg" height="40" alt="Arduino" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Linux-Dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Linux-Light.svg">
@@ -184,95 +198,4 @@
     <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Bash-Dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Bash-Light.svg">
     <img src="./images/svg_logo/Bash-Dark.svg" height="40" alt="Bash" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Powershell-Dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Powershell-Light.svg">
-    <img src="./images/svg_logo/Powershell-Dark.svg" height="40" alt="PowerShell" />
-  </picture>
-</p>
-
-#### 🧰 Средства разработки и рабочее пространство
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/VSCode-Dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/VSCode-Light.svg">
-    <img src="./images/svg_logo/VSCode-Dark.svg" height="40" alt="VS Code" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/VisualStudio-Dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/VisualStudio-Light.svg">
-    <img src="./images/svg_logo/VisualStudio-Dark.svg" height="40" alt="Visual Studio" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/PyCharm-Dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/PyCharm-Light.svg">
-    <img src="./images/svg_logo/PyCharm-Dark.svg" height="40" alt="PyCharm" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Idea-Dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Idea-Light.svg">
-    <img src="./images/svg_logo/Idea-Dark.svg" height="40" alt="IntelliJ IDEA" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Replit-Dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Replit-Light.svg">
-    <img src="./images/svg_logo/Replit-Dark.svg" height="40" alt="Replit" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Gradle-Dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Gradle-Light.svg">
-    <img src="./images/svg_logo/Gradle-Dark.svg" height="40" alt="Gradle" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Notion-Dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Notion-Light.svg">
-    <img src="./images/svg_logo/Notion-Dark.svg" height="40" alt="Notion" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/LaTeX-Dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/LaTeX-Light.svg">
-    <img src="./images/svg_logo/LaTeX-Dark.svg" height="40" alt="LaTeX" />
-  </picture>
-</p>
-
----
-
-### 📊 Моя GitHub Статистика
-
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="97%" />
-</p>
-
----
-
-### 🤝 Как со мной связаться
-
-<p align="left">
-  <a href="https://t.me" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Gmail-Dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Gmail-Light.svg">
-      <img src="./images/svg_logo/Gmail-Dark.svg" height="40" alt="Telegram" />
-    </picture>
-  </a>
-  <a href="mailto:vjbv457@gmail.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Gmail-Dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Gmail-Light.svg">
-      <img src="./images/svg_logo/Gmail-Dark.svg" height="40" alt="Email" />
-    </picture>
-  </a>
-  <a href="https://vk.com" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Github-Dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Github-Light.svg">
-      <img src="./images/svg_logo/Github-Dark.svg" height="40" alt="VK" />
-    </picture>
-  </a>
-</p>
+  
