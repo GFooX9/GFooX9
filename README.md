@@ -1,19 +1,27 @@
 <p align="center">
-  <!-- Your custom header banner -->
-  <img src="./images/head.jpg" width="100%" />
+  <!-- Adaptive Header Banner -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/head.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="./images/head_light.jpg">
+    <img src="./images/head.jpg" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
-  <!-- Local Language Switcher Buttons -->
-  <a href="./README.md">
+  <!-- Adaptive Language Switcher Buttons (Fixed to btn_eng) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/btn_eng_active.png">
+    <source media="(prefers-color-scheme: light)" srcset="./images/btn_eng_active_light.png">
     <img src="./images/btn_eng_active.png" height="40" alt="English" />
-  </a>
+  </picture>
   <a href="./README.ru.md">
-    <img src="./images/btn_ru_inactive.png" height="40" alt="Russian" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/btn_ru_inactive.png">
+      <source media="(prefers-color-scheme: light)" srcset="./images/btn_ru_inactive_light.png">
+      <img src="./images/btn_ru_inactive.png" height="40" alt="Russian" />
+    </picture>
   </a>
 </p>
-
-
 
 ---
 
@@ -45,7 +53,7 @@ If you would like to take a quick look at my project presentation and reports, y
 
 ### 🛠️ Tech Stack
 
-<!-- Badges tailored to your palette -->
+<!-- Custom palette badges (Background: 44444E, Text: D3DAD9) -->
 <p align="left">
   <img src="https://shields.io" />
   <img src="https://shields.io" />
