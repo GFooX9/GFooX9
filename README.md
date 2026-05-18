@@ -17,7 +17,7 @@
   <a href="./README.ru.md">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/btn_ru_inactive.png">
-      <source media="(prefers-color-scheme: light)" srcset="./images/btn_ru_light_inactive.png">
+      <source media="(prefers-color-scheme: light)" srcset="./images/btn_ru_light.png">
       <img src="./images/btn_ru_inactive.png" height="40" alt="Russian" />
     </picture>
   </a>
