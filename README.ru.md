@@ -1,18 +1,27 @@
 <p align="center">
-  <!-- Ваша кастомная шапка -->
-  <img src="./images/head.jpg" width="100%" />
+  <!-- Adaptive Header Banner -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/head.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="./images/head_light.jpg">
+    <img src="./images/head.jpg" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
-  <!-- Локальные кнопки переключения языка -->
+  <!-- Adaptive Language Switcher Buttons (Fixed to btn_eng) -->
   <a href="./README.md">
-    <img src="./images/btn_eng_inactive.png" height="40" alt="English" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/btn_eng_inactive.png">
+      <source media="(prefers-color-scheme: light)" srcset="./images/btn_eng_inactive_light.png">
+      <img src="./images/btn_eng_inactive.png" height="40" alt="English" />
+    </picture>
   </a>
-  <a href="./README.ru.md">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/btn_ru_active.png">
+    <source media="(prefers-color-scheme: light)" srcset="./images/btn_ru_active_light.png">
     <img src="./images/btn_ru_active.png" height="40" alt="Russian" />
-  </a>
+  </picture>
 </p>
-
 
 ---
 
@@ -44,7 +53,7 @@
 
 ### 🛠️ Стек технологий
 
-<!-- Бейджи в тон вашей палитре -->
+<!-- Кастомные бейджи (Фон: 44444E, Текст: D3DAD9) -->
 <p align="left">
   <img src="https://shields.io" />
   <img src="https://shields.io" />
