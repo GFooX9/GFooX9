@@ -135,7 +135,7 @@
   <img src="./images/svg_logo/AfterEffects.svg" height="40" alt="After Effects" />
 </p>
 
-#### 🪄 ИИ-ассистенты и умные редакторы
+#### 🧠 ИИ-ассистенты и умные редакторы
 <p align="left">
   <img src="./images/svg_logo/Claude.svg" height="40" alt="Claude AI" />
   <img src="./images/svg_logo/Deepseek.svg" height="40" alt="DeepSeek" />
