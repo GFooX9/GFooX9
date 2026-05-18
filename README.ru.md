@@ -12,7 +12,7 @@
   <a href="./README.md">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/btn_eng_inactive.png">
-      <source media="(prefers-color-scheme: light)" srcset="./images/btn_eng_light_inactive.png">
+      <source media="(prefers-color-scheme: light)" srcset="./images/btn_eng_light.png">
       <img src="./images/btn_eng_inactive.png" height="40" alt="English" />
     </picture>
   </a>
