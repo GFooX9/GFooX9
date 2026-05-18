@@ -140,11 +140,8 @@ If you would like to take a quick look at my project presentation and reports, y
   <img src="./images/svg_logo/Deepseek.svg" height="40" alt="DeepSeek" />
   <img src="./images/svg_logo/Gemini.svg" height="40" alt="Gemini" />
   <img src="./images/svg_logo/Perplexity.svg" height="40" alt="Perplexity" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Cursor%20AI-Dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Cursor%20AI-Light.svg">
-    <img src="./images/svg_logo/Cursor%20AI-Dark.svg" height="40" alt="Cursor AI" />
-  </picture>
+  <img src="./images/svg_logo/Cursor AI.svg" height="40" alt="Cursor AI" />
+  
 </p>
 
 #### 🎬 Video, Audio & Streaming Production
