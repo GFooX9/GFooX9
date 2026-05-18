@@ -40,7 +40,7 @@
 
 Когда я отхожу от компилятора, я погружаюсь в другие формы искусства и фокуса:
 * ✍️ **Словесное творчество:** Автор книг и стихов, исследую сторителлинг в любых проявлениях.
-* 🖌️ **Visual Focus:** Переношу детали в жизнь через раскрашивание картин по номерам.
+* 🖌️ **Визуальный фокус:** Переношу детали в жизнь через раскрашивание картин по номерам.
 * 🏓 **Активное движение:** Перезагружаю энергию и развиваю рефлексы в динамичном настольном теннисе.
 
 ---
@@ -83,7 +83,7 @@
   </picture>
 </p>
 
-#### 🤖 Компьютерное зрение и ИИ / Нейросети
+#### 🤖 Компьютерное зрение и ИИ / Data Science
 <p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/OpenCV-Dark.svg">
@@ -100,13 +100,9 @@
     <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Matlab-Light.svg">
     <img src="./images/svg_logo/Matlab-Dark.svg" height="40" alt="Matlab" />
   </picture>
-  <img src="./images/svg_logo/Claude.svg" height="40" alt="Claude" />
-  <img src="./images/svg_logo/Deepseek.svg" height="40" alt="DeepSeek" />
-  <img src="./images/svg_logo/Gemini.svg" height="40" alt="Gemini" />
-  <img src="./images/svg_logo/Perplexity.svg" height="40" alt="Perplexity" />
 </p>
 
-#### 🕹️ Геймдизайн и игровые движки
+#### 🕹️ Геймдизайн, игровые движки и Пиксель-арт
 <p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Unity-Dark.svg">
@@ -119,9 +115,10 @@
     <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Godot-Light.svg">
     <img src="./images/svg_logo/Godot-Dark.svg" height="40" alt="Godot" />
   </picture>
+  <img src="./images/svg_logo/Aseprite.svg" height="40" alt="Aseprite" />
 </p>
 
-#### 🎨 UI/UX, 3D и цифровая графика
+#### 🎨 UI/UX и инструменты графического дизайна
 <p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Figma-Dark.svg">
@@ -135,10 +132,27 @@
     <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Blender-Light.svg">
     <img src="./images/svg_logo/Blender-Dark.svg" height="40" alt="Blender" />
   </picture>
-  <img src="./images/svg_logo/Aseprite.svg" height="40" alt="Aseprite" />
-  <img src="./images/svg_logo/AfterEffects.svg" height="40" alt="After Effects" />
+</p>
+
+#### 🧠 ИИ-ассистенты и умные редакторы
+<p align="left">
+  <img src="./images/svg_logo/Claude.svg" height="40" alt="Claude" />
+  <img src="./images/svg_logo/Deepseek.svg" height="40" alt="DeepSeek" />
+  <img src="./images/svg_logo/Gemini.svg" height="40" alt="Gemini" />
+  <img src="./images/svg_logo/Perplexity.svg" height="40" alt="Perplexity" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Cursor%20AI-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Cursor%20AI-Light.svg">
+    <img src="./images/svg_logo/Cursor%20AI-Dark.svg" height="40" alt="Cursor AI" />
+  </picture>
+</p>
+
+#### 🎬 Видео, аудио и стриминг производство
+<p align="left">
   <img src="./images/svg_logo/Davinci%20resolve.svg" height="40" alt="DaVinci Resolve" />
   <img src="./images/svg_logo/FL%20Studio.svg" height="40" alt="FL Studio" />
+  <img src="./images/svg_logo/OBS.svg" height="40" alt="OBS Studio" />
+  <img src="./images/svg_logo/AfterEffects.svg" height="40" alt="After Effects" />
 </p>
 
 #### 🌐 Веб-разработка и базы данных
@@ -161,7 +175,7 @@
   <img src="./images/svg_logo/SQLite.svg" height="40" alt="SQLite" />
 </p>
 
-#### 🛠️ Системное окружение и автоматизация
+#### 🛠️ Операционные системы и командные оболочки
 <p align="left">
   <img src="./images/svg_logo/Git.svg" height="40" alt="Git" />
   <picture>
@@ -218,11 +232,7 @@
     <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Idea-Light.svg">
     <img src="./images/svg_logo/Idea-Dark.svg" height="40" alt="IntelliJ IDEA" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Cursor%20AI-Dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Cursor%20AI-Light.svg">
-    <img src="./images/svg_logo/Cursor%20AI-Dark.svg" height="40" alt="Cursor AI" />
-  </picture>
+  <img src="./images/svg_logo/AndroidStudio.svg" height="40" alt="Android Studio" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Replit-Dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Replit-Light.svg">
@@ -243,7 +253,6 @@
     <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/LaTeX-Light.svg">
     <img src="./images/svg_logo/LaTeX-Dark.svg" height="40" alt="LaTeX" />
   </picture>
-  <img src="./images/svg_logo/OBS.svg" height="40" alt="OBS Studio" />
 </p>
 
 ---
@@ -274,6 +283,9 @@
       <img src="./images/svg_logo/Gmail-Dark.svg" height="40" alt="Email" />
     </picture>
   </a>
+  <a href="mailto:vjbv457@gmail.com">
+    <img src="./images/svg_logo/YandexMail%20.svg" height="40" alt="Yandex Mail" />
+  </a>
   <a href="https://vk.com" target="_blank">
     <img src="./images/svg_logo/VK.svg" height="40" alt="VK" />
   </a>
@@ -283,12 +295,27 @@
   <a href="https://instagram.com" target="_blank">
     <img src="./images/svg_logo/Instagram.svg" height="40" alt="Instagram" />
   </a>
-  <a href="https://discord.com" target="_blank">
+  <a href="https://discordapp.com" target="_blank">
     <img src="./images/svg_logo/Discord.svg" height="40" alt="Discord" />
   </a>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Spotify-Dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Spotify-Light.svg">
     <img src="./images/svg_logo/Spotify-Dark.svg" height="40" alt="Spotify" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/StackOverflow-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/StackOverflow-Light.svg">
+    <img src="./images/svg_logo/StackOverflow-Dark.svg" height="40" alt="StackOverflow" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/Github-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/Github-Light.svg">
+    <img src="./images/svg_logo/Github-Dark.svg" height="40" alt="GitHub" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/svg_logo/GitLab-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/GitLab-Light.svg">
+    <img src="./images/svg_logo/GitLab-Dark.svg" height="40" alt="GitLab" />
   </picture>
 </p>
