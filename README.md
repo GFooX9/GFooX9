@@ -135,7 +135,7 @@ If you would like to take a quick look at my project presentation and reports, y
   <img src="./images/svg_logo/AfterEffects.svg" height="40" alt="After Effects" />
 </p>
 
-#### 🪄 AI Assistants & Smart Editors
+#### 🧠 AI Assistants & Smart Editors
 <p align="left">
   <img src="./images/svg_logo/Claude.svg" height="40" alt="Claude AI" />
   <img src="./images/svg_logo/Deepseek.svg" height="40" alt="DeepSeek" />
