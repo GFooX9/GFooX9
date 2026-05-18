@@ -1,10 +1,6 @@
 <p align="center">
-  <!-- Баннер-приветствие в цветах палитры -->
-  <img src="https://vercel.app" width="100%" />
-</p>
-
-<p align="center">
-  <code>🧑‍💻 Разработчик / Студент / Инженер</code> 
+  <!-- Ваша кастомная шапка из папки images -->
+  <img src="./images/banner.png" width="100%" />
 </p>
 
 ---
@@ -33,7 +29,7 @@
 
 ### 📊 Моя GitHub Статистика
 
-<!-- Карточки статистики подстроены под ваш профиль GFooX9 -->
+<!-- Карточки статистики подстроены под ваш профиль GFooX9 и цветовую палитру -->
 <p align="center">
   <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
   <img src="https://vercel.app" alt="Top Languages" width="48%" />
@@ -45,13 +41,14 @@
 
 ---
 
-### 🤝 Как со мной связаться
+### 🤝 Социальные сети
 
+<!-- Кликабельные бейджи со ссылками на ваши контакты из шапки -->
 <p align="left">
-  <a href="https://t.me<ваш_юзернейм>" target="_blank">
+  <a href="https://t.me" target="_blank">
     <img src="https://shields.io" />
   </a>
-  <a href="mailto:<ваша_почта@email.com>">
+  <a href="mailto:vjbv457@gmail.com">
     <img src="https://shields.io" />
   </a>
 </p>
