@@ -4,14 +4,15 @@
 </p>
 
 <p align="center">
-  <!-- Переключатель языков (активна кнопка Русский) -->
+  <!-- Локальные кнопки переключения языка -->
   <a href="./README.md">
-    <img src="https://shields.io" />
+    <img src="./images/btn_eng_inactive.png" height="40" alt="English" />
   </a>
   <a href="./README.ru.md">
-    <img src="https://shields.io" />
+    <img src="./images/btn_ru_active.png" height="40" alt="Russian" />
   </a>
 </p>
+
 
 ---
 
