@@ -270,7 +270,7 @@ If you would like to take a quick look at my project presentation and reports, y
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://t.me" target="_blank">
+  <a href="https://t.me/AlexDobler" target="_blank">
     <img src="./images/svg_logo/Telegram.svg" height="40" alt="Telegram" />
   </a>
   <a href="mailto:vjbv457@gmail.com">
@@ -280,19 +280,16 @@ If you would like to take a quick look at my project presentation and reports, y
       <img src="./images/svg_logo/Gmail-Dark.svg" height="40" alt="Email" />
     </picture>
   </a>
-  <a href="mailto:vjbv457@gmail.com">
-    <img src="./images/svg_logo/YandexMail%20.svg" height="30" alt="Yandex Mail" />
-  </a>
-  <a href="https://vk.com" target="_blank">
+  <a href="https://vk.com/alexdobler" target="_blank">
     <img src="./images/svg_logo/VK.svg" height="40" alt="VK" />
   </a>
-  <a href="https://pinterest.com" target="_blank">
+  <a href="https://ru.pinterest.com/AlexDoblerX_9/" target="_blank">
     <img src="./images/svg_logo/Pinterest.svg" height="40" alt="Pinterest" />
   </a>
   <a href="https://instagram.com" target="_blank">
     <img src="./images/svg_logo/Instagram.svg" height="40" alt="Instagram" />
   </a>
-  <a href="https://discord.com" target="_blank">
+  <a href="https://discordapp.com/users/527061643692081163" target="_blank">
     <img src="./images/svg_logo/Discord.svg" height="40" alt="Discord" />
   </a>
   <picture>
@@ -315,4 +312,7 @@ If you would like to take a quick look at my project presentation and reports, y
     <source media="(prefers-color-scheme: light)" srcset="./images/svg_logo/GitLab-Light.svg">
     <img src="./images/svg_logo/GitLab-Dark.svg" height="40" alt="GitLab" />
   </picture>
+  <a href="mailto:shuradobler@yandex.ru?subject=Вопрос по сотрудничеству">
+    <img src="./images/svg_logo/YandexMail%20.svg" height="30" alt="Yandex Mail" />
+  </a>
 </p>
