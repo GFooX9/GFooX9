@@ -12,13 +12,13 @@
   <a href="./README.md">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/btn_eng_inactive.png">
-      <source media="(prefers-color-scheme: light)" srcset="./images/btn_eng_inactive_light.png">
+      <source media="(prefers-color-scheme: light)" srcset="./images/btn_eng_light_inactive.png">
       <img src="./images/btn_eng_inactive.png" height="40" alt="English" />
     </picture>
   </a>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/btn_ru_active.png">
-    <source media="(prefers-color-scheme: light)" srcset="./images/btn_ru_active_light.png">
+    <source media="(prefers-color-scheme: light)" srcset="./images/btn_ru_light_active.png">
     <img src="./images/btn_ru_active.png" height="40" alt="Russian" />
   </picture>
 </p>
