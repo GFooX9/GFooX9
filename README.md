@@ -43,7 +43,25 @@ When I step away from the compiler, I dive into other forms of art and focus:
 * 🖌️ **Visual Focus:** Bringing detail to life through paint-by-numbers artwork.
 * 🏓 **Active Motion:** Recharging my energy and reflexes with fast-paced table tennis.
 
----
+<p align="center">
+  <table align="center" style="border-collapse: collapse; border: none; width: 100%;">
+    <tr>
+      <td width="24%" align="center" style="border: none; padding: 4px;">
+        <img src="./images/meme1.png" width="100%" style="border-radius: 8px;" alt="Meme 1" />
+      </td>
+      <td width="24%" align="center" style="border: none; padding: 4px;">
+        <img src="./images/meme2.png" width="100%" style="border-radius: 8px;" alt="Meme 2" />
+      </td>
+      <td width="24%" align="center" style="border: none; padding: 4px;">
+        <img src="./images/meme3.png" width="100%" style="border-radius: 8px;" alt="Meme 3" />
+      </td>
+      <td width="24%" align="center" style="border: none; padding: 4px;">
+        <img src="./images/meme4.png" width="100%" style="border-radius: 8px;" alt="Meme 4" />
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 ### 📋 Here is a Short Example
 If you would like to take a quick look at my project presentation and reports, you can browse through the full version using the GitHub built-in file viewer:
