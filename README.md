@@ -313,3 +313,9 @@ If you would like to take a quick look at my project presentation and reports, y
     <img src="./images/svg_logo/GitLab-Dark.svg" height="40" alt="GitLab" />
   </picture>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://seeyoufarm.com" alt="Views Counter" />
+</p>
