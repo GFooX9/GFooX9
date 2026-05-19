@@ -69,6 +69,47 @@ If you would like to take a quick look at my project presentation and reports, y
 
 ---
 
+### 🎬 Video Editing Portfolio
+
+<p align="center">
+  <table align="center" style="border-collapse: collapse; border: none; width: 100%;">
+    <tr>
+      <!-- Video 1 -->
+      <td width="48%" align="center" style="border: none; padding: 8px;">
+        <a href="https://youtube.com" target="_blank">
+          <img src="https://youtube.com" width="100%" style="border-radius: 8px;" alt="Video 1" />
+        </a>
+      </td>
+      <!-- Video 2 -->
+      <td width="48%" align="center" style="border: none; padding: 8px;">
+        <a href="https://youtube.com" target="_blank">
+          <img src="https://youtube.com" width="100%" style="border-radius: 8px;" alt="Video 2" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <!-- Video 3 -->
+      <td width="48%" align="center" style="border: none; padding: 8px;">
+        <a href="https://youtube.com" target="_blank">
+          <img src="https://youtube.com" width="100%" style="border-radius: 8px;" alt="Video 3" />
+        </a>
+      </td>
+      <!-- Video 4 -->
+      <td width="48%" align="center" style="border: none; padding: 8px;">
+        <a href="https://youtube.com" target="_blank">
+          <img src="https://youtube.com" width="100%" style="border-radius: 8px;" alt="Video 4" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  🍿 <b>[Open Full Playlist on YouTube](https://youtube.com)</b>
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 #### 💻 Programming Languages
