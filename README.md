@@ -22,6 +22,9 @@
     </picture>
   </a>
 </p>
+---
+
+### (⌐■_■) Status : free agent 
 
 ---
 
