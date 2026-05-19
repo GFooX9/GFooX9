@@ -23,12 +23,6 @@
   </a>
 </p>
 
-```🖳
-GFooX9@SUST:~$ status --current
-> [⚡] Coding Computer Vision | Designing Immersive Games | Crafting UI/UX
-```
-
-
 ---
 
 ### 🗂️ Story Behind The Code
