@@ -105,7 +105,7 @@ If you would like to take a quick look at my project presentation and reports, y
 </p>
 
 <p align="center">
-  🍿 <b>[Open Full Playlist on YouTube](https://youtube.com)</b>
+  🍿 <b>[Open Full Playlist on YouTube](https://www.youtube.com/playlist?list=PL33UrWCC6MQW8I87wKkrsOIWUVyFr9Zx0)</b>
 </p>
 
 
