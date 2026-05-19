@@ -67,6 +67,44 @@
 Если вы хотите взглянуть на мои отчеты и презентации проектов, вы можете полистать полную версию во встроенном плеере GitHub:
 👉 **[Открыть презентацию проекта (Reports.pdf)](./images/Reports.pdf)**
 
+### 🎬 Портфолио видеомонтажа
+
+<p align="center">
+  <table align="center" style="border-collapse: collapse; border: none; width: 100%;">
+    <tr>
+      <!-- Video 1 -->
+      <td width="48%" align="center" style="border: none; padding: 8px;">
+        <a href="https://youtu.be/niFY24YwdZw" target="_blank">
+          <img src="./images/vid2.png" width="100%" style="border-radius: 8px; border: none;" alt="Video 1" />
+        </a>
+      </td>
+      <!-- Video 2 -->
+      <td width="48%" align="center" style="border: none; padding: 8px;">
+        <a href="https://youtu.be/5IEiQ7mbegQ" target="_blank">
+          <img src="./images/vid1.png" width="100%" style="border-radius: 8px; border: none;" alt="Video 2" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <!-- Video 3 -->
+      <td width="48%" align="center" style="border: none; padding: 8px;">
+        <a href="https://youtu.be/GR6haGqg8Fw" target="_blank">
+          <img src="./images/vid1.png" width="100%" style="border-radius: 8px; border: none;" alt="Video 3" />
+        </a>
+      </td>
+      <!-- Video 4 -->
+      <td width="48%" align="center" style="border: none; padding: 8px;">
+        <a href="https://youtu.be/MP0YPZDQhWY" target="_blank">
+          <img src="./images/vid3.png" width="100%" style="border-radius: 8px; border: none;" alt="Video 4" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  🍿 <b>[Открыть весь плейлист на YouTube](https://www.youtube.com/playlist?list=PL33UrWCC6MQW8I87wKkrsOIWUVyFr9Zx0)</b>
+</p>
 ---
 
 ### 🛠️ Стек технологий
