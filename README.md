@@ -76,28 +76,28 @@ If you would like to take a quick look at my project presentation and reports, y
     <tr>
       <!-- Video 1 -->
       <td width="48%" align="center" style="border: none; padding: 8px;">
-        <a href="https://youtube.com" target="_blank">
-          <img src="https://youtube.com" width="100%" style="border-radius: 8px;" alt="Video 1" />
+        <a href="https://youtu.be/niFY24YwdZw" target="_blank">
+          <img src="https://youtu.be/niFY24YwdZw" width="100%" style="border-radius: 8px;" alt="Video 1" />
         </a>
       </td>
       <!-- Video 2 -->
       <td width="48%" align="center" style="border: none; padding: 8px;">
-        <a href="https://youtube.com" target="_blank">
-          <img src="https://youtube.com" width="100%" style="border-radius: 8px;" alt="Video 2" />
+        <a href="https://youtu.be/5IEiQ7mbegQ" target="_blank">
+          <img src="https://youtu.be/5IEiQ7mbegQ" width="100%" style="border-radius: 8px;" alt="Video 2" />
         </a>
       </td>
     </tr>
     <tr>
       <!-- Video 3 -->
       <td width="48%" align="center" style="border: none; padding: 8px;">
-        <a href="https://youtube.com" target="_blank">
-          <img src="https://youtube.com" width="100%" style="border-radius: 8px;" alt="Video 3" />
+        <a href="https://youtu.be/GR6haGqg8Fw" target="_blank">
+          <img src="https://youtu.be/GR6haGqg8Fw" width="100%" style="border-radius: 8px;" alt="Video 3" />
         </a>
       </td>
       <!-- Video 4 -->
       <td width="48%" align="center" style="border: none; padding: 8px;">
-        <a href="https://youtube.com" target="_blank">
-          <img src="https://youtube.com" width="100%" style="border-radius: 8px;" alt="Video 4" />
+        <a href="https://youtu.be/MP0YPZDQhWY" target="_blank">
+          <img src="https://youtu.be/MP0YPZDQhWY" width="100%" style="border-radius: 8px;" alt="Video 4" />
         </a>
       </td>
     </tr>
