@@ -1,30 +1,31 @@
-<svg xmlns="http://w3.org" viewBox="0 0 400 50" width="400" height="50">
+<svg xmlns="http://w3.org" viewBox="0 0 450 50" width="450" height="50">
   <style>
-    .text {
+    .typing-text {
       font-family: 'Courier New', Courier, monospace;
       font-weight: bold;
       font-size: 18px;
       fill: #715A5A;
+      overflow: hidden;
+      white-space: nowrap;
+      border-right: 2px solid #D3DAD9;
+      display: inline-block;
+      animation: 
+        typing 3.5s steps(30, end) infinite alternate,
+        blink-cursor 0.75s step-end infinite;
     }
-    .cursor {
-      font-family: 'Courier New', Courier, monospace;
-      font-size: 18px;
-      fill: #D3DAD9;
-      animation: blink 0.7s infinite;
+
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 100% }
     }
-    @keyframes blink {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0; }
+
+    @keyframes blink-cursor {
+      from, to { border-color: transparent }
+      50% { border-color: #D3DAD9 }
     }
   </style>
 
-  <text x="10" y="31" class="text">
-    <animate 
-      attributeName="textContent" 
-      values="Coding Computer Vision...;Designing Immersive Games...;Writing Novels &amp; Poetry...;Crafting Seamless UI/UX...;Coding Computer Vision..." 
-      dur="12s" 
-      repeatCount="indefinite" 
-    />
-  </text>
-  <text x="315" y="31" class="cursor">_</text>
+  <g transform="translate(10, 30)">
+    <text class="typing-text">Coding Computer Vision &amp; Designing Games...</text>
+  </g>
 </svg>
