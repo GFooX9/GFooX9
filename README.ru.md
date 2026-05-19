@@ -47,16 +47,16 @@
   <table align="center" style="border-collapse: collapse; border: none; width: 100%;">
     <tr>
       <td width="24%" align="center" style="border: none; padding: 4px;">
-        <img src="./images/meme1.png" width="100%" style="border-radius: 8px;" alt="Meme 1" />
+        <img src="./images/meme1.gif" width="100%" style="border-radius: 8px;" alt="Meme 1" />
       </td>
       <td width="24%" align="center" style="border: none; padding: 4px;">
-        <img src="./images/meme2.png" width="100%" style="border-radius: 8px;" alt="Meme 2" />
+        <img src="./images/meme2.gif" width="100%" style="border-radius: 8px;" alt="Meme 2" />
       </td>
       <td width="24%" align="center" style="border: none; padding: 4px;">
-        <img src="./images/meme3.png" width="100%" style="border-radius: 8px;" alt="Meme 3" />
+        <img src="./images/meme3.gif" width="100%" style="border-radius: 8px;" alt="Meme 3" />
       </td>
       <td width="24%" align="center" style="border: none; padding: 4px;">
-        <img src="./images/meme4.png" width="100%" style="border-radius: 8px;" alt="Meme 4" />
+        <img src="./images/meme4.gif" width="100%" style="border-radius: 8px;" alt="Meme 4" />
       </td>
     </tr>
   </table>
