@@ -373,3 +373,13 @@ If you would like to take a quick look at my project presentation and reports, y
     <img src="./images/svg_logo/GitLab-Dark.svg" height="40" alt="GitLab" />
   </picture>
 </p>
+
+---
+
+### 🎵 Currently Jamming To
+
+<p align="left">
+  <a href="https://open.spotify.com/playlist/27Zm1P410dPfedsdoO9fqm?si=r5EumpjxSIq2PgZyZO7jPg" target="_blank">
+    <img src="https://vercel.app" alt="Spotify Player" width="350" />
+  </a>
+</p>
