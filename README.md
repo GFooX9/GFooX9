@@ -23,6 +23,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="./images/typing.svg" width="380" alt="Typing Effect" />
+</p>
+
 ---
 
 ### 🗂️ Story Behind The Code
