@@ -317,6 +317,6 @@ If you would like to take a quick look at my project presentation and reports, y
 ---
 
 <p align="center">
-  <img src="https://github.io" alt="Views Counter" />
+  <img src="![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=GFooX9/)" alt="Views Counter" />
 </p>
 
