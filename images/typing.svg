@@ -1,0 +1,30 @@
+<svg xmlns="http:// some-url" viewBox="0 0 400 50" width="400" height="50">
+  <style>
+    .text {
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: bold;
+      font-size: 20px;
+      fill: #715A5A;
+    }
+    .cursor {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 20px;
+      fill: #D3DAD9;
+      animation: blink 0.7s infinite;
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+  </style>
+
+  <text x="10" y="30" class="text">
+    <animate 
+      attributeName="textContent" 
+      values="Coding Computer Vision...;Designing Immersive Games...;Writing Novels &amp; Poetry...;Crafting Seamless UI/UX...;Coding Computer Vision..." 
+      dur="12s" 
+      repeatCount="indefinite" 
+    />
+  </text>
+  <text x="340" y="30" class="cursor">_</text>
+</svg>
