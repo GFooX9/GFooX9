@@ -312,18 +312,6 @@ If you would like to take a quick look at my project presentation and reports, y
   </picture>
 </p>
 
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="97%" />
-</p>
 
 ---
 
