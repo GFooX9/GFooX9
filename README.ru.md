@@ -311,19 +311,6 @@
 
 ---
 
-### 📊 Моя GitHub Статистика
-
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="97%" />
-</p>
-
----
-
 ### 🤝 Как со мной связаться
 
 <p align="left">
