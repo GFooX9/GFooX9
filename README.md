@@ -31,8 +31,7 @@
 
 ### 🗂️ Story Behind The Code
 
-✨ **Blending Logic with Creativity**
-I am a **Fundamental Computer Science & IT** student at South Ural State University. My academic journey is driven by a passion for teaching machines to see and building worlds from scratch. I bridge the gap between complex algorithms and human-centered design.
+I am 21 years old, I am a student of Fundamental Computer Science and Information Technology at South Ural State University. During his studies, he mastered many skills, both hard and soft. At the moment, I'm based more as a game designer, but as it usually turns out, I have to perform other tasks. At the same time, I am interested in computer vision in the application of Physical AI.
 
 * 🤖 **Computer Vision Enthusiast:** Exploring pixels, training models, and finding patterns in visual data.
 * 🕹️ **Game Designer & Visionary:** Crafting gameplay mechanics, balance, and immersive interactive experiences.
