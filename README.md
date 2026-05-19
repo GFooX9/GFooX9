@@ -23,9 +23,11 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="./images/typing.svg" width="380" alt="Typing Effect" />
-</p>
+```🖳
+GFooX9@SUST:~$ status --current
+> [⚡] Coding Computer Vision | Designing Immersive Games | Crafting UI/UX
+```
+
 
 ---
 
