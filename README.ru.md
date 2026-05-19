@@ -43,7 +43,25 @@
 * 🖌️ **Визуальный фокус:** Переношу детали в жизнь через раскрашивание картин по номерам.
 * 🏓 **Активное движение:** Перезагружаю энергию и развиваю рефлексы в динамичном настольном теннисе.
 
----
+<p align="center">
+  <table align="center" style="border-collapse: collapse; border: none; width: 100%;">
+    <tr>
+      <td width="24%" align="center" style="border: none; padding: 4px;">
+        <img src="./images/meme1.png" width="100%" style="border-radius: 8px;" alt="Meme 1" />
+      </td>
+      <td width="24%" align="center" style="border: none; padding: 4px;">
+        <img src="./images/meme2.png" width="100%" style="border-radius: 8px;" alt="Meme 2" />
+      </td>
+      <td width="24%" align="center" style="border: none; padding: 4px;">
+        <img src="./images/meme3.png" width="100%" style="border-radius: 8px;" alt="Meme 3" />
+      </td>
+      <td width="24%" align="center" style="border: none; padding: 4px;">
+        <img src="./images/meme4.png" width="100%" style="border-radius: 8px;" alt="Meme 4" />
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 ### 📋 Вот вам маленький пример
 Если вы хотите взглянуть на мои отчеты и презентации проектов, вы можете полистать полную версию во встроенном плеере GitHub:
