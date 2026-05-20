@@ -31,7 +31,7 @@
 
 ### 🗂️ Story Behind The Code
 
-I am 21 years old, I am a student of Fundamental Computer Science and Information Technology at South Ural State University. During his studies, he mastered many skills, both hard and soft. At the moment, I'm based more as a game designer, but as it usually turns out, I have to perform other tasks. At the same time, I am interested in computer vision in the application of Physical AI.
+I am 21 years old and a student in the Fundamental Informatics and Information Technologies program at South Ural State University. Throughout my studies, I have developed many skills, both hard and soft. At this point, I primarily see myself as a game designer, but as it usually goes, I also have to handle other tasks. Alongside game development, I am interested in computer vision applied to Physical AI.
 
 * 🤖 **Computer Vision Enthusiast:** Exploring pixels, training models, and finding patterns in visual data.
 * 🕹️ **Game Designer & Visionary:** Crafting gameplay mechanics, balance, and immersive interactive experiences.
